@@ -1,13 +1,14 @@
 # amgo
 
 ## Description
-Project amgo
+"amogus mangling" - A utility for data or text mangling.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement mangling logic
+- [ ] Define input/output formats
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized (edition 2024)
 
 ---
 *AI assisted*
